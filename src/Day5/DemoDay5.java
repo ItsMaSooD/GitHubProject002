@@ -11,4 +11,7 @@ public class DemoDay5 {
 	public void getInfo2() {
 		System.out.println("New ...");
 	}
+	public void getInfo3() {
+		System.out.println("a. stash change...");
+	}
 }
